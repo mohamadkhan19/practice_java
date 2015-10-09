@@ -8,10 +8,6 @@ public class DoWhileTable {
 			System.out.println(i+"*"+j+"="+i*j);
 			j++;
 		}while(j<=12);
-		
-		
-		
-		
 	}
 
 }
